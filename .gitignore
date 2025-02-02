@@ -1,0 +1,23 @@
+# Configuration et fichiers sensibles
+config/config.php
+.env
+
+# Fichiers de logs
+logs/
+*.log
+
+# Cache et sessions PHP
+cache/
+session/
+
+# Dépendances Composer
+vendor/
+
+# Fichiers générés par l'IDE (VS Code, PhpStorm, etc.)
+.vscode/
+.idea/
+*.iml
+
+# Fichiers système
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2 @@
+
+ALTER TABLE game_scores ADD COLUMN badge VARCHAR(10) DEFAULT 'None';
